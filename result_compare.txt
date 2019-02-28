@@ -1,0 +1,59 @@
+example nzdusd, Interest Rate, usd    mean usd rise
+
+
+eurchn	Government Debt to GDP,equal	Business Confidence,eur	Balance of Trade,chn	Interest Rate,equal	Unemployment Rate,eur	GDP Growth Rate,eur	Currency,chn			 equal=2  eur=3  chn=2  
+
+gbpnzd	Government Debt to GDP,equal	Business Confidence,gbp	Balance of Trade,equal	Interest Rate,equal	Unemployment Rate,gbp	GDP Growth Rate,gbp	Currency,equal			 equal=4  gbp=3  
+
+usdchn	Government Debt to GDP,equal	Business Confidence,usd	Balance of Trade,equal	Interest Rate,equal	Unemployment Rate,equal	GDP Growth Rate,usd	Currency,equal			 equal=5  usd=2  
+
+usdjpy	Government Debt to GDP,equal	Business Confidence,usd	Balance of Trade,usd	Interest Rate,equal	Unemployment Rate,jpy	GDP Growth Rate,equal	Currency,equal			 equal=4  usd=2  jpy=1  
+
+usdchf	Government Debt to GDP,equal	Business Confidence,equal	Balance of Trade,equal	Interest Rate,equal	Unemployment Rate,usd	GDP Growth Rate,usd	Currency,usd			 equal=4  usd=3  
+
+gbpusd	Government Debt to GDP,equal	Business Confidence,equal	Balance of Trade,usd	Interest Rate,equal	Unemployment Rate,gbp	GDP Growth Rate,equal	Currency,usd			 equal=4  usd=2  gbp=1  
+
+audusd	Government Debt to GDP,equal	Business Confidence,usd	Balance of Trade,usd	Interest Rate,equal	Unemployment Rate,equal	GDP Growth Rate,usd	Currency,usd			 equal=3  usd=4  
+
+nzdusd	Government Debt to GDP,equal	Business Confidence,usd	Balance of Trade,usd	Interest Rate,equal	Unemployment Rate,equal	GDP Growth Rate,usd	Currency,usd			 equal=3  usd=4  
+
+nzdjpy	Government Debt to GDP,equal	Business Confidence,nzd	Balance of Trade,equal	Interest Rate,equal	Unemployment Rate,jpy	GDP Growth Rate,jpy	Currency,jpy			 equal=3  nzd=1  jpy=3  
+
+nzdchf	Government Debt to GDP,equal	Business Confidence,chf	Balance of Trade,chf	Interest Rate,equal	Unemployment Rate,nzd	GDP Growth Rate,equal	Currency,chf			 equal=3  chf=3  nzd=1  
+
+usdcad	Government Debt to GDP,equal	Business Confidence,usd	Balance of Trade,equal	Interest Rate,cad	Unemployment Rate,cad	GDP Growth Rate,equal	Currency,equal			 equal=4  usd=1  cad=2  
+
+nzdcad	Government Debt to GDP,equal	Business Confidence,nzd	Balance of Trade,cad	Interest Rate,cad	Unemployment Rate,cad	GDP Growth Rate,cad	Currency,cad			 equal=1  nzd=1  cad=5  
+
+gbpjpy	Government Debt to GDP,equal	Business Confidence,gbp	Balance of Trade,equal	Interest Rate,equal	Unemployment Rate,equal	GDP Growth Rate,equal	Currency,jpy			 equal=5  gbp=1  jpy=1  
+
+gbpchf	Government Debt to GDP,equal	Business Confidence,equal	Balance of Trade,chf	Interest Rate,equal	Unemployment Rate,gbp	GDP Growth Rate,gbp	Currency,chf			 equal=3  chf=2  gbp=2  
+
+gbpcad	Government Debt to GDP,equal	Business Confidence,gbp	Balance of Trade,cad	Interest Rate,cad	Unemployment Rate,equal	GDP Growth Rate,equal	Currency,cad			 equal=3  gbp=1  cad=3  
+
+gbpaud	Government Debt to GDP,equal	Business Confidence,gbp	Balance of Trade,aud	Interest Rate,equal	Unemployment Rate,gbp	GDP Growth Rate,gbp	Currency,aud			 equal=2  gbp=3  aud=2  
+
+eurnzd	Government Debt to GDP,equal	Business Confidence,equal	Balance of Trade,equal	Interest Rate,equal	Unemployment Rate,eur	GDP Growth Rate,eur	Currency,equal			 equal=5  eur=2  
+
+eurjpy	Government Debt to GDP,equal	Business Confidence,eur	Balance of Trade,equal	Interest Rate,equal	Unemployment Rate,equal	GDP Growth Rate,equal	Currency,jpy			 equal=5  eur=1  jpy=1  
+
+eurgbp	Government Debt to GDP,equal	Business Confidence,gbp	Balance of Trade,equal	Interest Rate,equal	Unemployment Rate,equal	GDP Growth Rate,equal	Currency,equal			 equal=6  gbp=1  
+
+eurchf	Government Debt to GDP,equal	Business Confidence,chf	Balance of Trade,chf	Interest Rate,equal	Unemployment Rate,eur	GDP Growth Rate,eur	Currency,chf			 equal=2  chf=3  eur=2  
+
+eurcad	Government Debt to GDP,equal	Business Confidence,eur	Balance of Trade,cad	Interest Rate,cad	Unemployment Rate,equal	GDP Growth Rate,equal	Currency,cad			 equal=3  eur=1  cad=3  
+
+euraud	Government Debt to GDP,equal	Business Confidence,eur	Balance of Trade,aud	Interest Rate,equal	Unemployment Rate,eur	GDP Growth Rate,eur	Currency,aud			 equal=2  eur=3  aud=2  
+
+cadjpy	Government Debt to GDP,equal	Business Confidence,equal	Balance of Trade,cad	Interest Rate,cad	Unemployment Rate,equal	GDP Growth Rate,equal	Currency,equal			 equal=5  cad=2  
+
+cadchf	Government Debt to GDP,equal	Business Confidence,chf	Balance of Trade,equal	Interest Rate,cad	Unemployment Rate,cad	GDP Growth Rate,cad	Currency,cad			 equal=2  chf=1  cad=4  
+
+audnzd	Government Debt to GDP,equal	Business Confidence,nzd	Balance of Trade,aud	Interest Rate,equal	Unemployment Rate,equal	GDP Growth Rate,equal	Currency,aud			 equal=4  nzd=1  aud=2  
+
+audjpy	Government Debt to GDP,equal	Business Confidence,equal	Balance of Trade,aud	Interest Rate,equal	Unemployment Rate,jpy	GDP Growth Rate,jpy	Currency,jpy			 equal=3  aud=1  jpy=3  
+
+audchf	Government Debt to GDP,equal	Business Confidence,chf	Balance of Trade,chf	Interest Rate,equal	Unemployment Rate,aud	GDP Growth Rate,equal	Currency,equal			 equal=4  chf=2  aud=1  
+
+audcad	Government Debt to GDP,equal	Business Confidence,equal	Balance of Trade,cad	Interest Rate,cad	Unemployment Rate,cad	GDP Growth Rate,cad	Currency,cad			 equal=2  cad=5  
+

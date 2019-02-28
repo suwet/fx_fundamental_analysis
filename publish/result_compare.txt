@@ -1,0 +1,63 @@
+example nzdusd, Interest Rate, usd    mean usd rise
+
+
+eurusd	Balance of Trade,usd	Interest Rate,equal	Unemployment Rate,eur	GDP Growth Rate,equal	Currency,usd			 usd=2  equal=2  eur=1  
+
+chfjpy	Balance of Trade,chf	Interest Rate,equal	Unemployment Rate,jpy	GDP Growth Rate,jpy	Currency,jpy			 chf=1  equal=1  jpy=3  
+
+eurchn	Balance of Trade,chn	Interest Rate,equal	Unemployment Rate,eur	GDP Growth Rate,eur	Currency,chn			 chn=2  equal=1  eur=2  
+
+gbpnzd	Balance of Trade,equal	Interest Rate,equal	Unemployment Rate,gbp	GDP Growth Rate,gbp	Currency,equal			 equal=3  gbp=2  
+
+usdchn	Balance of Trade,equal	Interest Rate,equal	Unemployment Rate,equal	GDP Growth Rate,usd	Currency,equal			 equal=4  usd=1  
+
+usdjpy	Balance of Trade,usd	Interest Rate,equal	Unemployment Rate,jpy	GDP Growth Rate,equal	Currency,equal			 usd=1  equal=3  jpy=1  
+
+usdchf	Balance of Trade,equal	Interest Rate,equal	Unemployment Rate,usd	GDP Growth Rate,usd	Currency,usd			 equal=2  usd=3  
+
+gbpusd	Balance of Trade,usd	Interest Rate,equal	Unemployment Rate,gbp	GDP Growth Rate,equal	Currency,usd			 usd=2  equal=2  gbp=1  
+
+audusd	Balance of Trade,usd	Interest Rate,equal	Unemployment Rate,equal	GDP Growth Rate,usd	Currency,usd			 usd=3  equal=2  
+
+nzdusd	Balance of Trade,usd	Interest Rate,equal	Unemployment Rate,equal	GDP Growth Rate,usd	Currency,usd			 usd=3  equal=2  
+
+nzdjpy	Balance of Trade,equal	Interest Rate,equal	Unemployment Rate,jpy	GDP Growth Rate,jpy	Currency,jpy			 equal=2  jpy=3  
+
+nzdchf	Balance of Trade,chf	Interest Rate,equal	Unemployment Rate,nzd	GDP Growth Rate,equal	Currency,chf			 chf=2  equal=2  nzd=1  
+
+usdcad	Balance of Trade,equal	Interest Rate,cad	Unemployment Rate,cad	GDP Growth Rate,equal	Currency,equal			 equal=3  cad=2  
+
+nzdcad	Balance of Trade,cad	Interest Rate,cad	Unemployment Rate,cad	GDP Growth Rate,cad	Currency,cad			 cad=5  
+
+gbpjpy	Balance of Trade,equal	Interest Rate,equal	Unemployment Rate,equal	GDP Growth Rate,equal	Currency,jpy			 equal=4  jpy=1  
+
+gbpchf	Balance of Trade,chf	Interest Rate,equal	Unemployment Rate,gbp	GDP Growth Rate,gbp	Currency,chf			 chf=2  equal=1  gbp=2  
+
+gbpcad	Balance of Trade,cad	Interest Rate,cad	Unemployment Rate,equal	GDP Growth Rate,equal	Currency,cad			 cad=3  equal=2  
+
+gbpaud	Balance of Trade,aud	Interest Rate,equal	Unemployment Rate,gbp	GDP Growth Rate,gbp	Currency,aud			 aud=2  equal=1  gbp=2  
+
+eurnzd	Balance of Trade,equal	Interest Rate,equal	Unemployment Rate,eur	GDP Growth Rate,eur	Currency,equal			 equal=3  eur=2  
+
+eurjpy	Balance of Trade,equal	Interest Rate,equal	Unemployment Rate,equal	GDP Growth Rate,equal	Currency,jpy			 equal=4  jpy=1  
+
+eurgbp	Balance of Trade,equal	Interest Rate,equal	Unemployment Rate,equal	GDP Growth Rate,equal	Currency,equal			 equal=5  
+
+eurchf	Balance of Trade,chf	Interest Rate,equal	Unemployment Rate,eur	GDP Growth Rate,eur	Currency,chf			 chf=2  equal=1  eur=2  
+
+eurcad	Balance of Trade,cad	Interest Rate,cad	Unemployment Rate,equal	GDP Growth Rate,equal	Currency,cad			 cad=3  equal=2  
+
+euraud	Balance of Trade,aud	Interest Rate,equal	Unemployment Rate,eur	GDP Growth Rate,eur	Currency,aud			 aud=2  equal=1  eur=2  
+
+cadjpy	Balance of Trade,cad	Interest Rate,cad	Unemployment Rate,equal	GDP Growth Rate,equal	Currency,equal			 cad=2  equal=3  
+
+cadchf	Balance of Trade,equal	Interest Rate,cad	Unemployment Rate,cad	GDP Growth Rate,cad	Currency,cad			 equal=1  cad=4  
+
+audnzd	Balance of Trade,aud	Interest Rate,equal	Unemployment Rate,equal	GDP Growth Rate,equal	Currency,aud			 aud=2  equal=3  
+
+audjpy	Balance of Trade,aud	Interest Rate,equal	Unemployment Rate,jpy	GDP Growth Rate,jpy	Currency,jpy			 aud=1  equal=1  jpy=3  
+
+audchf	Balance of Trade,chf	Interest Rate,equal	Unemployment Rate,aud	GDP Growth Rate,equal	Currency,equal			 chf=1  equal=3  aud=1  
+
+audcad	Balance of Trade,cad	Interest Rate,cad	Unemployment Rate,cad	GDP Growth Rate,cad	Currency,cad			 cad=5  
+
