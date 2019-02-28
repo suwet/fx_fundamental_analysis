@@ -57,3 +57,5 @@ audchf	Government Debt to GDP,equal	Business Confidence,chf	Balance of Trade,chf
 
 audcad	Government Debt to GDP,equal	Business Confidence,equal	Balance of Trade,cad	Interest Rate,cad	Unemployment Rate,cad	GDP Growth Rate,cad	Currency,cad			 equal=2  cad=5  
 
+dot not believe this program
+
